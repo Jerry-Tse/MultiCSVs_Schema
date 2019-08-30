@@ -7,7 +7,7 @@ Reach the columns and datatypes information when dealing with huge amount of CSV
 ----
 
 <br/><br/>
-![test image size](https://github.com/Jerry-Tse/Internship_codebook/blob/master/MultiCSVs_Schema_Getter/example.png)
+![test image size](https://github.com/Jerry-Tse/MultiCSVs_Schema/blob/master/example.png)
   
 ## Set up 
 Set environment in first cell:  

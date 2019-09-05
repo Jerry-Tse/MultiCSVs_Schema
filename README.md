@@ -1,4 +1,4 @@
-> ### [Click here for nbviewer](https://nbviewer.jupyter.org/github/Jerry-Tse/Internship_codebook/blob/master/MultiCSVs_Schema_Getter/Schema_MultiCSVs.ipynb)
+> ### [Click here for nbviewer](https://nbviewer.jupyter.org/github/Jerry-Tse/MultiCSVs_Schema/blob/master/Schema_MultiCSVs.ipynb)
 <br/>
 
 # Get Schema information from Multiple CSVs
